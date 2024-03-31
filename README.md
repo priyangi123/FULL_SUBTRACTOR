@@ -55,3 +55,8 @@ endmodule
 OUTPUT:
 
 ![image](https://github.com/priyangi123/FULL_SUBTRACTOR/assets/165141104/9e20d613-eddd-4ca2-a5b5-0df57ce7d984)
+
+
+RESULT:
+
+Thus the verilog program for decoder has been simulated and verified successfully.
